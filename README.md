@@ -284,3 +284,4 @@ The save tool is executed.
 * Report Generation
 
 ---
+# ![Live Demo](image/Screenshot 2026-06-01 234530.png)
