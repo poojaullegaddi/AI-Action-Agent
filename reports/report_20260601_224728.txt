@@ -1,0 +1,11 @@
+Agentic AI is a type of artificial intelligence that is designed to take actions on behalf of a user or organization. It is a form of autonomous AI that can make decisions and take actions without human intervention. Agentic AI is often used in applications such as personal assistants, autonomous vehicles, and robots. It is a rapidly evolving field that has the potential to revolutionize many industries and aspects of our lives.
+
+Agentic AI is a branch of artificial intelligence focused on building autonomous, intelligent agents capable of making decisions, interacting with other agents and completing complex tasks with minimal supervision.
+
+Agentic AI is artificial intelligence that takes goal-directed action on its own — planning, calling tools, and adapting until a task is done.
+
+Agentic AI is an artificial intelligence system that can accomplish a specific goal with limited supervision. It consists of ai agents—machine learning models that mimic human decision-making to solve complex problems.
+
+Agentic AI is an advanced form of artificial intelligence focused on autonomous decision-making and action. Unlike traditional AI, which primarily responds to commands or pre-programmed instructions, agentic AI can perceive, reason, and act in the world to achieve its goals.
+
+Agentic AI has the potential to revolutionize many industries and aspects of our lives, including healthcare, finance, transportation, and education.

@@ -1,0 +1,15 @@
+The top 5 competitors of Tesla are:
+
+1. General Motors
+2. Volkswagen
+3. Toyota
+4. Ford
+5. Nissan
+
+These companies are all major players in the electric vehicle market and are working to develop their own electric vehicle offerings.
+
+Generative AI is a type of artificial intelligence that generates new content, such as text, images, music, or videos, based on a given prompt or input. It uses machine learning algorithms to create new and original content that is often indistinguishable from human-created content.
+
+Agentic AI is a type of artificial intelligence that is designed to take actions on behalf of a user or organization. It is a form of autonomous AI that can make decisions and take actions without human intervention.
+
+Agentic AI is a rapidly evolving field that has the potential to revolutionize many industries and aspects of our lives. It is being used in applications such as personal assistants, autonomous vehicles, and robots.
