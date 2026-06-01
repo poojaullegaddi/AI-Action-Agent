@@ -56,34 +56,63 @@ This project demonstrates the concept of **Agentic AI**, where an AI system can 
 
 # 🏗️ Architecture
 
-User Input
-↓
-Streamlit UI
-↓
-Intent Detection
-↓
-┌─────────────────────┐
-│ General Question │
-└─────────────────────┘
-↓
-Groq LLM
-↓
-Response
+## 🏗️ Architecture
 
-OR
+```text
++------------------+
+|      User        |
++------------------+
+         |
+         v
++------------------+
+|   Streamlit UI   |
++------------------+
+         |
+         v
++------------------+
+| Intent Detection |
++------------------+
+         |
+         +----------------------+
+         |                      |
+         v                      v
 
-┌─────────────────────┐
-│ Research Request │
-└─────────────────────┘
-↓
-Web Search Tool
-↓
-Groq LLM Analysis
-↓
-Summary Report
-↓
-(Optional)
-Save Report Tool
++------------------+    +------------------+
+| General Question |    | Research Request |
++------------------+    +------------------+
+         |                      |
+         v                      v
++------------------+    +------------------+
+|    Groq LLM      |    |  Search Tool     |
++------------------+    +------------------+
+         |                      |
+         |                      v
+         |            +------------------+
+         |            | Search Results   |
+         |            +------------------+
+         |                      |
+         |                      v
+         |            +------------------+
+         |            |    Groq LLM      |
+         |            +------------------+
+         |                      |
+         |                      v
+         |            +------------------+
+         |            | Summary Report   |
+         |            +------------------+
+         |                      |
+         |          (Optional Save)
+         |                      |
+         |                      v
+         |            +------------------+
+         |            |  Save Report     |
+         |            +------------------+
+         |
+         v
++------------------+
+| Final Response   |
++------------------+
+```
 
 ---
 
