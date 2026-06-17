@@ -4,3 +4,4 @@ langchain-groq
 langgraph
 python-dotenv
 duckduckgo-search
+ddgs
